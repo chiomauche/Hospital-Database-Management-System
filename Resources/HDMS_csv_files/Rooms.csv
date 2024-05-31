@@ -1,0 +1,6 @@
+room_id,type
+1,ICU
+2,General Ward
+3,Private
+4,Maternity
+5,Isolation

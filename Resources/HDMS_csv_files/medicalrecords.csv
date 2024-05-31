@@ -1,0 +1,52 @@
+medrecord_id,patient_id,staff_id,diagnosis,prescription,visit_date,treatment
+22,2,45,Depression,Medicine21,2023-08-13 11:25:00,Medication
+35,3,19,Muscle Injury,Medicine34,2023-10-17 01:03:00,Surgery
+19,4,1,Persistent Cough,Medicine18,2023-11-19 19:24:00,Medication
+33,6,26,Asthma,Medicine32,2023-10-07 10:52:00,Medication
+9,6,12,Appendicitis,Medicine8,2023-01-24 07:36:00,Surgery
+26,6,3,Prediabetes,Medicine25,2023-08-26 13:41:00,Dietician
+6,9,8,Hypertension,Medicine5,2023-08-06 20:26:00,Rest
+21,10,13,High Cholesterol,Medicine20,2023-02-12 22:51:00,Medication
+11,13,35,Broken Arm,Medicine10,2023-10-27 16:50:00,Surgery
+10,12,4,Sprain,Medicine9,2023-04-11 19:01:00,Medication
+4,12,11,Pregnancy,Medicine3,2022-03-01 13:58:00,CS
+8,12,7,Pregnancy ,Medicine7,2023-08-18 20:05:00,Natural Birth
+18,13,49,ADHD,Medicine17,2023-03-29 10:31:00,Medication and Physical Therapy
+24,16,26,Respiratory tract infection,Medicine23,2023-11-06 17:23:00,Medication
+51,12,47,Hypertension,Medicine51,2024-01-20 04:00:00,Rest
+16,29,34,Breast Cancer,Medicine15,2023-10-20 02:36:00,Chemotherapy
+49,16,29,Hypertension,Medicine48,2023-05-23 14:14:00,Rest
+39,17,44,Renal Cancer,Medicine38,2023-07-24 01:04:00,Chemotherapy
+36,19,24,ADHD,Medicine35,2023-08-17 01:53:00,Medication
+15,19,35,Muscle injury,Medicine14,2023-12-17 21:58:00,Surgery
+40,21,38,Pregnancy ,Medicine39,2023-02-11 01:57:00,CS
+46,21,7,Pelvic pain,Medicine45,2023-08-05 16:35:00,Medication and diagnostic imaging
+25,34,39,Premature birth,Medicine24,2023-01-24 06:08:00,Utilising support from ICU 
+31,23,23,Pregnancy,Medicine30,2023-03-18 02:51:00,Natural Birth
+41,23,47,Hypertension,Medicine40,2023-03-25 09:33:00,Rest
+27,25,47,Migraine,Medicine26,2023-10-03 13:41:00,Rest
+7,26,19,Fracture,Medicine6,2023-10-25 06:34:00,Physical Therapy
+50,26,29,Asthma,Medicine49,2023-07-01 12:43:00,Medication
+47,26,41,Bridged Pregnancy,Medicine46,2023-11-03 01:51:00,Frequent medical imaging
+44,28,39,Respiratory tract infection,Medicine43,2023-03-20 06:47:00,Medication
+37,30,44,Urological Cancer,Medicine36,2023-07-13 00:59:00,Chemotherapy
+1,40,12,Gallstone,Medicine0,2023-10-06 20:46:00,Surgery
+45,32,13,Diabetes,Medicine44,2023-08-09 02:34:00,Medication
+17,35,12,Broken Arm,Medicine16,2023-05-08 00:00:00,Surgery
+13,36,5,Diabetes,Medicine12,2023-03-28 18:32:00,Diet change and Medication
+23,37,18,Asthma,Medicine22,2023-10-15 21:28:00,Medication
+3,39,33,Congenital defect,Medicine2,2023-08-10 20:23:00,Surgery
+20,40,47,Migraine,Medicine19,2023-12-03 00:39:00,Rest
+5,42,38,Diabetes,Medicine4,2023-04-13 09:29:00,Medication
+28,28,33,Hernia,Medicine27,2023-06-09 16:13:00,Surgery
+48,43,14,Pelvic pain,Medicine47,2023-07-06 03:16:00,Medication
+38,44,29,Asthma,Medicine37,2023-02-06 12:09:00,Medication
+43,45,36,Depression,Medicine42,2023-07-02 10:40:00,Medication and Physical Therapy
+42,49,5,Eating disorder,Medicine41,2023-03-31 14:13:00,Portion control
+2,47,50,Persistent Rash,Medicine1,2023-03-22 11:50:00,Medication
+32,48,2,Prediabetes,Medicine31,2023-01-31 07:15:00,Monitoring and Diet change
+30,48,43,Premature birth,Medicine29,2023-09-22 20:44:00,Utilising support from ICU 
+14,32,26,Pneumonia,Medicine13,2023-08-23 06:36:00,Medication
+29,49,48,Diabetes,Medicine28,2023-02-01 18:04:00,Diet Planning 
+12,6,26,Severe Cold and Persistent Cough,Medicine11,2023-08-10 04:35:00,Medication
+34,15,48,Diabetes,Medicine33,2023-02-05 11:00:00,Diet change 

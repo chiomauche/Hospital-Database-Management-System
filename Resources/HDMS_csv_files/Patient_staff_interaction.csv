@@ -1,0 +1,51 @@
+interaction_id,staff_id,patient_id,date,note
+16,3,28,2023-08-01 06:26:00,Patient's BMI should be monitored
+1,5,24,2023-06-03 12:42:00,Malnutrition
+14,7,19,2023-12-07 19:30:00,Scan Scheduled for the 14/03/2024
+37,7,27,2023-06-26 20:06:00,Pelvic pain
+7,8,25,2023-04-10 09:03:00,Stroke
+22,8,17,2023-12-19 11:05:00,Stroke
+12,10,38,2023-07-26 05:01:00,Call to request for test result
+26,11,46,2023-08-22 10:39:00,Pregnancy assessment
+48,12,7,2023-01-02 02:30:00,Patient scheduled for gallstone surgery on the 03/03/2023
+4,13,8,2023-03-28 21:23:00,Hypertension
+41,13,11,2023-10-22 17:04:00,High Cholesterol
+19,28,31,2023-03-25 05:47:00,Appointment scheduling
+35,15,10,2023-12-22 11:05:00,Billing enquiry but was transferred to Medical records clerk
+42,16,36,2023-06-03 08:06:00,Type 2 Diabetes
+44,16,33,2023-01-02 12:38:00,Food allergy and intolerance
+34,16,23,2023-07-22 15:14:00,Type 2 Diabetes
+20,16,10,2023-11-28 07:57:00,Eating disorder
+23,18,2,2023-02-24 04:15:00,Abdominal Pain
+3,19,43,2023-11-05 12:00:00,Broken bones
+9,21,26,2023-12-02 17:02:00,Billing enquiry
+17,19,15,2023-03-06 09:00:00,Broken bones
+6,19,14,2023-12-22 09:44:00,Dislocation
+49,20,32,2023-04-25 03:04:00,Rash
+29,22,6,2023-04-02 21:47:00,Arthritis support
+18,23,42,2023-10-27 19:33:00,Family Planning
+32,24,24,2023-06-24 13:43:00,Persistent Cough
+46,28,23,2023-11-26 05:57:00,Information request
+21,28,34,2023-03-19 20:54:00,Appointment scheduling
+24,24,22,2023-07-21 19:43:00,Rash
+5,27,15,2023-06-16 17:48:00,Pregnancy support
+10,27,42,2023-10-04 08:37:00,Cancer support
+31,29,34,2023-03-12 09:58:00,Hypertension
+8,29,1,2023-09-24 16:45:00,Diabetes risk assessment
+47,30,12,2023-08-10 06:25:00,Arthritis support
+50,30,11,2023-08-04 23:42:00,Pregnancy support
+15,33,38,2023-09-19 20:56:00,Appendicitis surgery scheduled for 08/12/2023
+43,33,28,2023-06-06 05:56:00,Appointment scheduling
+27,35,28,2023-04-04 13:43:00,Request to speak with a Doctor
+13,36,3,2023-03-11 20:51:00,Depression
+33,36,25,2023-02-20 17:35:00,Depression
+25,43,1,2023-12-30 16:00:00,Request to speak with a Doctor
+30,43,28,2023-08-28 00:22:00,Guidance on hospital facilities
+45,46,22,2023-08-07 06:07:00,Urological Cancer
+36,47,14,2023-05-10 11:45:00,High Cholesterol
+39,48,7,2023-06-09 19:03:00,Consultation on dietary requirements
+28,49,34,2023-12-14 14:37:00,ADHD
+11,49,7,2023-04-06 11:55:00,Rash
+2,49,45,2023-11-06 16:37:00,ADHD
+38,50,2,2023-02-10 23:53:00,Congenital defect
+40,50,13,2023-01-10 19:54:00,Persistent Cough
