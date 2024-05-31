@@ -2,7 +2,7 @@
 SELECT diagnosis, COUNT(*) AS total_number
 FROM medicalrecords
 GROUP BY diagnosis 
-ORDER BY COUNT(*) DESC
+ORDER BY total_number DESC
 LIMIT 4;
 
 
@@ -39,7 +39,7 @@ ORDER BY interaction_count DESC;
 
 --  5. Find the departments having the at least 5 number of 'hypertension' patients?
  SELECT  dep_name, 
- COUNT(*)
+ COUNT(*) AS hyper_patients
  FROM Departments AS d
  JOIN Staff AS s
  ON d.dep_id = s.dep_id
@@ -47,7 +47,7 @@ ORDER BY interaction_count DESC;
  ON md.staff_id = s.staff_id
  WHERE md.diagnosis = 'Hypertension'
  GROUP BY dep_name
- HAVING COUNT(*) >= 5;
+ HAVING hyper_patients >= 5;
 
  
  -- 6. Find patients who have been assigned to a private room more than 1 times.
@@ -67,7 +67,7 @@ HAVING number_of_assignment > 1;
 
 
  -- 7. What is average total cost of bills for patients who have occupied a room, with an average cost per patient between £1000 and £1700
-SELECT p.first_name, p.last_name, AVG(total_cost) AS Average_cost
+SELECT p.first_name, p.last_name, ROUND(AVG(total_cost),2) AS Average_cost
 FROM Patients AS p
 JOIN Room_patient_assignment AS rpa
 ON p.patient_id = rpa.patient_id
