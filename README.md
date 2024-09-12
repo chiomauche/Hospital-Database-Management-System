@@ -36,6 +36,15 @@ One patient and one staff (many-to-one).
 * I designed the pysical structure of the database. Created the tables and specifying the data type and sizes of the attributes. Added some database management system features which includes, Stored Procedures,Trigger,View,Event and  normalization was done up to the 3rd normal form. 
 
 ![alt text](<Screenshot 2024-05-31 065236.png>)
+
+# Step 2: Data analysis
+* I retrieved the data from the database, to answer the questions relevant.
+* I created VIEWS, a virtual table from patients, appointments, departments, and staff tables named “appointmentschedule” for easy access to patients' appointment times and staff they are scheduled to see.
+
+![alt text](<Screenshot 2024-09-12 045948-1.png>)
+
+* 
+
  
 
 
