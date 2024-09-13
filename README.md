@@ -38,20 +38,27 @@ One patient and one staff (many-to-one).
 ![alt text](<Screenshot 2024-05-31 065236.png>)
 
 # Step 2: Data analysis
-* I retrieved the data from the database, to answer the questions relevant.
+* I retrieved the data from the database, to answer relevant questions.
 * I created VIEWS, a virtual table from patients, appointments, departments, and staff tables named “appointmentschedule” for easy access to patients' appointment times and staff they are scheduled to see.
 
 ![alt text](<Screenshot 2024-09-12 045948-1.png>)
 
 * I created a stored function to calculate age of patients from their date of birth (dob) for further research like knowing the age that is prevalent to cancer and other diseases.
    * For example: Find the patients who are aged 40 and above. 
-     ![alt text](<Screenshot 2024-09-13 034246-1.png>)
-     ![alt text](<Screenshot 2024-09-13 034516.png>)
+    ![alt text](<Screenshot 2024-09-13 034246-1.png>)
+    ![alt text](<Screenshot 2024-09-13 034516.png>)
 
 * I created a stored procedure named AddingPayment to automatically adjust and update payment status once any patient pays their bills.
    * For example: I called the AddingPayment procedure to add £100 to bill_id 7.
-     ![alt text](<Screenshot 2024-09-13 035406-1.png>)
+    ![alt text](<Screenshot 2024-09-13 035406-1.png>)
 
+* I created triggers to prevent double appointments booking for patients.
+   * For example: To test if the trigger set works, I tried to book for an appointment for a particular time slot  with a staff that is already taken.
+    ![alt text](<Screenshot 2024-09-13 041357-1.png>)
+
+# Conclusion
+
+I successfully designed and implemented a comprehensive Hospital Management System to optimize hospital operations and enhance patient care. Leveraged automation through stored procedures, triggers, and events to streamline appointment scheduling, billing management, and follow-up processes.
  
 
 
