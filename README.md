@@ -43,7 +43,14 @@ One patient and one staff (many-to-one).
 
 ![alt text](<Screenshot 2024-09-12 045948-1.png>)
 
-* 
+* I created a stored function to calculate age of patients from their date of birth (dob) for further research like knowing the age that is prevalent to cancer and other diseases.
+   * For example: Find the patients who are aged 40 and above. 
+     ![alt text](<Screenshot 2024-09-13 034246-1.png>)
+     ![alt text](<Screenshot 2024-09-13 034516.png>)
+
+* I created a stored procedure named AddingPayment to automatically adjust and update payment status once any patient pays their bills.
+   * For example: I called the AddingPayment procedure to add £100 to bill_id 7.
+     ![alt text](<Screenshot 2024-09-13 035406-1.png>)
 
  
 
